@@ -1,0 +1,3 @@
+approach,reported_accuracy_percent,approximate_runtime_minutes,source,verification_status
+Regression followed by classification,76.7,5,Bachelor Thesis Table 5 printed page 75 PDF page 81,Thesis-reported not reproduced
+Three-class classification,70.9,3,Bachelor Thesis Table 5 printed page 75 PDF page 81,Thesis-reported not reproduced
