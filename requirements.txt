@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+openpyxl
+jupyterlab
+notebook
+# Check individual notebooks for additional dependencies (e.g. tensorflow/keras).
