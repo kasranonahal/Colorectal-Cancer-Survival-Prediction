@@ -7,4 +7,7 @@ scipy
 openpyxl
 jupyterlab
 notebook
-# Check individual notebooks for additional dependencies (e.g. tensorflow/keras).
+tensorflow
+imbalanced-learn
+pydot
+# Versions are unpinned; original environment was not supplied.
